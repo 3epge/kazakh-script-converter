@@ -1,0 +1,26 @@
+{
+  "name": "kazakh-script-converter",
+  "version": "1.0.0",
+  "description": "Utility functions for converting between Cyrillic and Latin scripts for Kazakh language.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3epge/kazakh-script-converter.git"
+  },
+  "keywords": [
+    "kazakh",
+    "alphabet",
+    "script",
+    "converter"
+  ],
+  "author": "Zerde Turdybek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3epge/kazakh-script-converter/issues"
+  },
+  "homepage": "https://github.com/3epge/kazakh-script-converter#readme"
+}
